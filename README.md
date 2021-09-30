@@ -13,4 +13,4 @@
 
 #### go to http://localhost:3000/
 
-##### you could see "this is the app && this is the component" rendered on the screen in two seperate divs
+##### you should see "this is the app && this is the component" rendered on the screen in two seperate divs
