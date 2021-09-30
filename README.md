@@ -8,9 +8,9 @@
 
 #### initialize the server
 
-##### run "npm start" to start the server in devlopment mode
+##### run "npm start" to start the server in devlopement mode
 ##### run "npm run start-prod" to start the server in production mode
 
 #### go to http://localhost:3000/
 
-##### you could see this is the app && this is the component rendered on the screen
+##### you could see "this is the app && this is the component" rendered on the screen in two seperate divs
