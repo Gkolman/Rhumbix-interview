@@ -1,5 +1,5 @@
 import React from 'react'
-let Test = () => {
+let Test = (props) => {
   return (
     <div> this is the component</div>
   )
