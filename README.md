@@ -3,7 +3,7 @@
 #### download dependencies
 ##### run "npm install" in the project directory
 
-#### transipile JSX into JS
+#### transipile JSX
 ##### run "npm run build" in the project directory
 
 #### initialize the server
