@@ -13,4 +13,3 @@
 
 #### go to http://localhost:3000/
 
-##### you should see "this is the app && this is the component" rendered on the screen in two seperate divs
